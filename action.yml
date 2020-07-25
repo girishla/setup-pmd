@@ -1,5 +1,5 @@
 name: 'PMD Source Code Analyzer Action'
-author: Felipe Echanique Torres
+author: Girish (forked from sfdx-actions/setup-pmd)
 description: 'This action allows to use PMD Source Code Analyzer from GitHub Actions'
 runs:
   using: 'node12'
